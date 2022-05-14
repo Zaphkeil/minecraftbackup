@@ -1,0 +1,58 @@
+[12:57:49] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:57:50] [Worker-Main-4/INFO]: Loaded 7 recipes
+[12:57:51] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[12:57:51] [Server thread/INFO]: Loading properties
+[12:57:51] [Server thread/INFO]: This server is running Paper version git-Paper-318 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: 2ab0258)
+[12:57:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:57:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:57:51] [Server thread/INFO]: Default game type: SURVIVAL
+[12:57:51] [Server thread/INFO]: Generating keypair
+[12:57:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:57:51] [Server thread/INFO]: Using default channel type
+[12:57:51] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[12:57:51] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[12:57:51] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v21.2
+[12:57:51] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.25.1
+[12:57:51] [Server thread/INFO]: [SmoothTimber] Loading SmoothTimber v1.21.0
+[12:57:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:57:51] [Server thread/INFO]: Preparing level "world"
+[12:57:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:57:52] [Server thread/INFO]: Time elapsed: 128 ms
+[12:57:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:57:52] [Server thread/INFO]: Time elapsed: 71 ms
+[12:57:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:57:52] [Server thread/INFO]: Time elapsed: 60 ms
+[12:57:52] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v21.2
+[12:57:53] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[12:57:53] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[12:57:53] [Server thread/INFO]: --------------------
+[12:57:53] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[12:57:53] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[12:57:53] [Server thread/INFO]: --------------------
+[12:57:53] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.25.1
+[12:57:53] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.21.0
+[12:57:53] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.18.2 (Core v1_16x)
+[12:57:53] [Server thread/INFO]: Running delayed init tasks
+[12:57:53] [Server thread/INFO]: Done (2.041s)! For help, type "help"
+[12:57:53] [Server thread/INFO]: Timings Reset
+[12:57:53] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] No bot token has been set in the config; a bot token is required to connect to Discord.
+[12:57:53] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.25.1
+[12:57:53] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] 伺服器已關閉，耗時69ms
+[12:57:53] [pool-9-thread-1/WARN]: [DiscordSRV] Update check failed: zip file closed
+[13:01:09] [Server thread/INFO]: Stopping the server
+[13:01:09] [Server thread/INFO]: Stopping server
+[13:01:09] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.21.0
+[13:01:09] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v21.2
+[13:01:09] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[13:01:10] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v21.2
+[13:01:10] [Server thread/INFO]: Saving players
+[13:01:10] [Server thread/INFO]: Saving worlds
+[13:01:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:01:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:01:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:01:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:01:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:01:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:01:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:01:11] [Server thread/INFO]: Flushing Chunk IO
+[13:01:11] [Server thread/INFO]: Closing Thread Pool
